@@ -67,3 +67,8 @@ EOF
 
 Whenever your monitors fail to wake up, simply double-click the app you just created. It will execute the reset sequence in the background and force macOS to ping the display ports.
 
+Here is the updated Markdown file with the source link added in an Acknowledgments section at the bottom. You can copy and paste this directly into your GitHub repository.
+
+## Source & Acknowledgments
+
+The core Python script and approach were originally shared and discussed in [displayplacer issue #137 on GitHub](https://github.com/jakehilborn/displayplacer/issues/137#issuecomment-2787781728).
