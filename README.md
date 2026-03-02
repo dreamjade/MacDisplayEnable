@@ -12,6 +12,7 @@ Because this script interacts with core macOS developer libraries, you must acce
 2. Run the following command:
    ```bash
    sudo xcodebuild -license
+   ```
 
 3. Enter your Mac login password when prompted and agree the license.
 
